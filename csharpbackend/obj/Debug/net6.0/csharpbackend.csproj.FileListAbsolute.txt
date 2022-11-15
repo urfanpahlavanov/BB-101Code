@@ -1,0 +1,15 @@
+C:\Users\CP\Desktop\csharpbackend\obj\Debug\net6.0\csharpbackend.csproj.AssemblyReference.cache
+C:\Users\CP\Desktop\csharpbackend\obj\Debug\net6.0\csharpbackend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CP\Desktop\csharpbackend\obj\Debug\net6.0\csharpbackend.AssemblyInfoInputs.cache
+C:\Users\CP\Desktop\csharpbackend\obj\Debug\net6.0\csharpbackend.AssemblyInfo.cs
+C:\Users\CP\Desktop\csharpbackend\obj\Debug\net6.0\csharpbackend.csproj.CoreCompileInputs.cache
+C:\Users\CP\Desktop\csharpbackend\bin\Debug\net6.0\csharpbackend.exe
+C:\Users\CP\Desktop\csharpbackend\bin\Debug\net6.0\csharpbackend.deps.json
+C:\Users\CP\Desktop\csharpbackend\bin\Debug\net6.0\csharpbackend.runtimeconfig.json
+C:\Users\CP\Desktop\csharpbackend\bin\Debug\net6.0\csharpbackend.dll
+C:\Users\CP\Desktop\csharpbackend\bin\Debug\net6.0\csharpbackend.pdb
+C:\Users\CP\Desktop\csharpbackend\obj\Debug\net6.0\csharpbackend.dll
+C:\Users\CP\Desktop\csharpbackend\obj\Debug\net6.0\refint\csharpbackend.dll
+C:\Users\CP\Desktop\csharpbackend\obj\Debug\net6.0\csharpbackend.pdb
+C:\Users\CP\Desktop\csharpbackend\obj\Debug\net6.0\csharpbackend.genruntimeconfig.cache
+C:\Users\CP\Desktop\csharpbackend\obj\Debug\net6.0\ref\csharpbackend.dll
