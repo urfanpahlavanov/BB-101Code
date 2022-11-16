@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\CP\\Desktop\\csharpbackend\\csharpbackend.csproj",
+      "projectUniqueName": "C:\\Users\\CP\\Desktop\\BB-101Code\\csharpbackend\\csharpbackend.csproj",
       "projectName": "csharpbackend",
-      "projectPath": "C:\\Users\\CP\\Desktop\\csharpbackend\\csharpbackend.csproj",
+      "projectPath": "C:\\Users\\CP\\Desktop\\BB-101Code\\csharpbackend\\csharpbackend.csproj",
       "packagesPath": "C:\\Users\\CP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\CP\\Desktop\\csharpbackend\\obj\\",
+      "outputPath": "C:\\Users\\CP\\Desktop\\BB-101Code\\csharpbackend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\CP\\AppData\\Roaming\\NuGet\\NuGet.Config",

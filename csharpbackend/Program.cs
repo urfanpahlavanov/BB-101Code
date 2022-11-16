@@ -1,6 +1,6 @@
 ﻿class Task
 {
-    private static void Main(){
+    private static void Main1(){
 
         Console.WriteLine("Enter numbers");
         int number= Convert.ToInt32(Console.ReadLine());
