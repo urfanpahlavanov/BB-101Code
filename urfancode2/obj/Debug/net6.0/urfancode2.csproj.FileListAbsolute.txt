@@ -1,0 +1,15 @@
+C:\Users\CP\source\repos\urfancode2\obj\Debug\net6.0\urfancode2.csproj.AssemblyReference.cache
+C:\Users\CP\source\repos\urfancode2\obj\Debug\net6.0\urfancode2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CP\source\repos\urfancode2\obj\Debug\net6.0\urfancode2.AssemblyInfoInputs.cache
+C:\Users\CP\source\repos\urfancode2\obj\Debug\net6.0\urfancode2.AssemblyInfo.cs
+C:\Users\CP\source\repos\urfancode2\obj\Debug\net6.0\urfancode2.csproj.CoreCompileInputs.cache
+C:\Users\CP\source\repos\urfancode2\bin\Debug\net6.0\urfancode2.exe
+C:\Users\CP\source\repos\urfancode2\bin\Debug\net6.0\urfancode2.deps.json
+C:\Users\CP\source\repos\urfancode2\bin\Debug\net6.0\urfancode2.runtimeconfig.json
+C:\Users\CP\source\repos\urfancode2\bin\Debug\net6.0\urfancode2.dll
+C:\Users\CP\source\repos\urfancode2\bin\Debug\net6.0\urfancode2.pdb
+C:\Users\CP\source\repos\urfancode2\obj\Debug\net6.0\urfancode2.dll
+C:\Users\CP\source\repos\urfancode2\obj\Debug\net6.0\refint\urfancode2.dll
+C:\Users\CP\source\repos\urfancode2\obj\Debug\net6.0\urfancode2.pdb
+C:\Users\CP\source\repos\urfancode2\obj\Debug\net6.0\urfancode2.genruntimeconfig.cache
+C:\Users\CP\source\repos\urfancode2\obj\Debug\net6.0\ref\urfancode2.dll

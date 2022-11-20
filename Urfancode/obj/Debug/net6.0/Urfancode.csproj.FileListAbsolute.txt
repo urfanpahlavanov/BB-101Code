@@ -1,0 +1,15 @@
+C:\Users\CP\source\repos\Urfancode\bin\Debug\net6.0\Urfancode.exe
+C:\Users\CP\source\repos\Urfancode\bin\Debug\net6.0\Urfancode.deps.json
+C:\Users\CP\source\repos\Urfancode\bin\Debug\net6.0\Urfancode.runtimeconfig.json
+C:\Users\CP\source\repos\Urfancode\bin\Debug\net6.0\Urfancode.dll
+C:\Users\CP\source\repos\Urfancode\bin\Debug\net6.0\Urfancode.pdb
+C:\Users\CP\source\repos\Urfancode\obj\Debug\net6.0\Urfancode.csproj.AssemblyReference.cache
+C:\Users\CP\source\repos\Urfancode\obj\Debug\net6.0\Urfancode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CP\source\repos\Urfancode\obj\Debug\net6.0\Urfancode.AssemblyInfoInputs.cache
+C:\Users\CP\source\repos\Urfancode\obj\Debug\net6.0\Urfancode.AssemblyInfo.cs
+C:\Users\CP\source\repos\Urfancode\obj\Debug\net6.0\Urfancode.csproj.CoreCompileInputs.cache
+C:\Users\CP\source\repos\Urfancode\obj\Debug\net6.0\Urfancode.dll
+C:\Users\CP\source\repos\Urfancode\obj\Debug\net6.0\refint\Urfancode.dll
+C:\Users\CP\source\repos\Urfancode\obj\Debug\net6.0\Urfancode.pdb
+C:\Users\CP\source\repos\Urfancode\obj\Debug\net6.0\Urfancode.genruntimeconfig.cache
+C:\Users\CP\source\repos\Urfancode\obj\Debug\net6.0\ref\Urfancode.dll

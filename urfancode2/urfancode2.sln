@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "urfancode2", "urfancode2.csproj", "{36190DBD-D061-4296-A942-6B45CDA67437}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36190DBD-D061-4296-A942-6B45CDA67437}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36190DBD-D061-4296-A942-6B45CDA67437}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36190DBD-D061-4296-A942-6B45CDA67437}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36190DBD-D061-4296-A942-6B45CDA67437}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46CA0BD0-6BD1-43CA-A716-53F90A6D4E87}
+	EndGlobalSection
+EndGlobal
