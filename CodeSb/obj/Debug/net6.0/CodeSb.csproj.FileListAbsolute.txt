@@ -1,0 +1,15 @@
+C:\Users\CP\source\repos\CodeSb\bin\Debug\net6.0\CodeSb.exe
+C:\Users\CP\source\repos\CodeSb\bin\Debug\net6.0\CodeSb.deps.json
+C:\Users\CP\source\repos\CodeSb\bin\Debug\net6.0\CodeSb.runtimeconfig.json
+C:\Users\CP\source\repos\CodeSb\bin\Debug\net6.0\CodeSb.dll
+C:\Users\CP\source\repos\CodeSb\bin\Debug\net6.0\CodeSb.pdb
+C:\Users\CP\source\repos\CodeSb\obj\Debug\net6.0\CodeSb.csproj.AssemblyReference.cache
+C:\Users\CP\source\repos\CodeSb\obj\Debug\net6.0\CodeSb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CP\source\repos\CodeSb\obj\Debug\net6.0\CodeSb.AssemblyInfoInputs.cache
+C:\Users\CP\source\repos\CodeSb\obj\Debug\net6.0\CodeSb.AssemblyInfo.cs
+C:\Users\CP\source\repos\CodeSb\obj\Debug\net6.0\CodeSb.csproj.CoreCompileInputs.cache
+C:\Users\CP\source\repos\CodeSb\obj\Debug\net6.0\CodeSb.dll
+C:\Users\CP\source\repos\CodeSb\obj\Debug\net6.0\refint\CodeSb.dll
+C:\Users\CP\source\repos\CodeSb\obj\Debug\net6.0\CodeSb.pdb
+C:\Users\CP\source\repos\CodeSb\obj\Debug\net6.0\CodeSb.genruntimeconfig.cache
+C:\Users\CP\source\repos\CodeSb\obj\Debug\net6.0\ref\CodeSb.dll

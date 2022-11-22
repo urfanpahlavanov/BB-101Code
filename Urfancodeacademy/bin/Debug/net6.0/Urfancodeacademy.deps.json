@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Urfancodeacademy/1.0.0": {
+        "runtime": {
+          "Urfancodeacademy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Urfancodeacademy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\CP\source\repos\Urfancodeacademy\bin\Debug\net6.0\Urfancodeacademy.exe
+C:\Users\CP\source\repos\Urfancodeacademy\bin\Debug\net6.0\Urfancodeacademy.deps.json
+C:\Users\CP\source\repos\Urfancodeacademy\bin\Debug\net6.0\Urfancodeacademy.runtimeconfig.json
+C:\Users\CP\source\repos\Urfancodeacademy\bin\Debug\net6.0\Urfancodeacademy.dll
+C:\Users\CP\source\repos\Urfancodeacademy\bin\Debug\net6.0\Urfancodeacademy.pdb
+C:\Users\CP\source\repos\Urfancodeacademy\obj\Debug\net6.0\Urfancodeacademy.csproj.AssemblyReference.cache
+C:\Users\CP\source\repos\Urfancodeacademy\obj\Debug\net6.0\Urfancodeacademy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CP\source\repos\Urfancodeacademy\obj\Debug\net6.0\Urfancodeacademy.AssemblyInfoInputs.cache
+C:\Users\CP\source\repos\Urfancodeacademy\obj\Debug\net6.0\Urfancodeacademy.AssemblyInfo.cs
+C:\Users\CP\source\repos\Urfancodeacademy\obj\Debug\net6.0\Urfancodeacademy.csproj.CoreCompileInputs.cache
+C:\Users\CP\source\repos\Urfancodeacademy\obj\Debug\net6.0\Urfancodeacademy.dll
+C:\Users\CP\source\repos\Urfancodeacademy\obj\Debug\net6.0\refint\Urfancodeacademy.dll
+C:\Users\CP\source\repos\Urfancodeacademy\obj\Debug\net6.0\Urfancodeacademy.pdb
+C:\Users\CP\source\repos\Urfancodeacademy\obj\Debug\net6.0\Urfancodeacademy.genruntimeconfig.cache
+C:\Users\CP\source\repos\Urfancodeacademy\obj\Debug\net6.0\ref\Urfancodeacademy.dll
