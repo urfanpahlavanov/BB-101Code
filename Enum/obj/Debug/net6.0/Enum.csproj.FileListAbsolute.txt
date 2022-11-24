@@ -1,0 +1,15 @@
+C:\Users\CP\source\repos\Enum\bin\Debug\net6.0\Enum.exe
+C:\Users\CP\source\repos\Enum\bin\Debug\net6.0\Enum.deps.json
+C:\Users\CP\source\repos\Enum\bin\Debug\net6.0\Enum.runtimeconfig.json
+C:\Users\CP\source\repos\Enum\bin\Debug\net6.0\Enum.dll
+C:\Users\CP\source\repos\Enum\bin\Debug\net6.0\Enum.pdb
+C:\Users\CP\source\repos\Enum\obj\Debug\net6.0\Enum.csproj.AssemblyReference.cache
+C:\Users\CP\source\repos\Enum\obj\Debug\net6.0\Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CP\source\repos\Enum\obj\Debug\net6.0\Enum.AssemblyInfoInputs.cache
+C:\Users\CP\source\repos\Enum\obj\Debug\net6.0\Enum.AssemblyInfo.cs
+C:\Users\CP\source\repos\Enum\obj\Debug\net6.0\Enum.csproj.CoreCompileInputs.cache
+C:\Users\CP\source\repos\Enum\obj\Debug\net6.0\Enum.dll
+C:\Users\CP\source\repos\Enum\obj\Debug\net6.0\refint\Enum.dll
+C:\Users\CP\source\repos\Enum\obj\Debug\net6.0\Enum.pdb
+C:\Users\CP\source\repos\Enum\obj\Debug\net6.0\Enum.genruntimeconfig.cache
+C:\Users\CP\source\repos\Enum\obj\Debug\net6.0\ref\Enum.dll
