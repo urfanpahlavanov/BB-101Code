@@ -1,0 +1,15 @@
+C:\Users\CP\source\repos\Exseption\bin\Debug\net6.0\Exseption.exe
+C:\Users\CP\source\repos\Exseption\bin\Debug\net6.0\Exseption.deps.json
+C:\Users\CP\source\repos\Exseption\bin\Debug\net6.0\Exseption.runtimeconfig.json
+C:\Users\CP\source\repos\Exseption\bin\Debug\net6.0\Exseption.dll
+C:\Users\CP\source\repos\Exseption\bin\Debug\net6.0\Exseption.pdb
+C:\Users\CP\source\repos\Exseption\obj\Debug\net6.0\Exseption.csproj.AssemblyReference.cache
+C:\Users\CP\source\repos\Exseption\obj\Debug\net6.0\Exseption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CP\source\repos\Exseption\obj\Debug\net6.0\Exseption.AssemblyInfoInputs.cache
+C:\Users\CP\source\repos\Exseption\obj\Debug\net6.0\Exseption.AssemblyInfo.cs
+C:\Users\CP\source\repos\Exseption\obj\Debug\net6.0\Exseption.csproj.CoreCompileInputs.cache
+C:\Users\CP\source\repos\Exseption\obj\Debug\net6.0\Exseption.dll
+C:\Users\CP\source\repos\Exseption\obj\Debug\net6.0\refint\Exseption.dll
+C:\Users\CP\source\repos\Exseption\obj\Debug\net6.0\Exseption.pdb
+C:\Users\CP\source\repos\Exseption\obj\Debug\net6.0\Exseption.genruntimeconfig.cache
+C:\Users\CP\source\repos\Exseption\obj\Debug\net6.0\ref\Exseption.dll
