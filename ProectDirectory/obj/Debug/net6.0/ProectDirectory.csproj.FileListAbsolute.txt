@@ -1,0 +1,15 @@
+C:\Users\CP\source\repos\ProectDirectory\bin\Debug\net6.0\ProectDirectory.exe
+C:\Users\CP\source\repos\ProectDirectory\bin\Debug\net6.0\ProectDirectory.deps.json
+C:\Users\CP\source\repos\ProectDirectory\bin\Debug\net6.0\ProectDirectory.runtimeconfig.json
+C:\Users\CP\source\repos\ProectDirectory\bin\Debug\net6.0\ProectDirectory.dll
+C:\Users\CP\source\repos\ProectDirectory\bin\Debug\net6.0\ProectDirectory.pdb
+C:\Users\CP\source\repos\ProectDirectory\obj\Debug\net6.0\ProectDirectory.csproj.AssemblyReference.cache
+C:\Users\CP\source\repos\ProectDirectory\obj\Debug\net6.0\ProectDirectory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CP\source\repos\ProectDirectory\obj\Debug\net6.0\ProectDirectory.AssemblyInfoInputs.cache
+C:\Users\CP\source\repos\ProectDirectory\obj\Debug\net6.0\ProectDirectory.AssemblyInfo.cs
+C:\Users\CP\source\repos\ProectDirectory\obj\Debug\net6.0\ProectDirectory.csproj.CoreCompileInputs.cache
+C:\Users\CP\source\repos\ProectDirectory\obj\Debug\net6.0\ProectDirectory.dll
+C:\Users\CP\source\repos\ProectDirectory\obj\Debug\net6.0\refint\ProectDirectory.dll
+C:\Users\CP\source\repos\ProectDirectory\obj\Debug\net6.0\ProectDirectory.pdb
+C:\Users\CP\source\repos\ProectDirectory\obj\Debug\net6.0\ProectDirectory.genruntimeconfig.cache
+C:\Users\CP\source\repos\ProectDirectory\obj\Debug\net6.0\ref\ProectDirectory.dll
